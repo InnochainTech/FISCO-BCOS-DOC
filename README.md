@@ -29,3 +29,5 @@ FISCO BCOS已落地应用达数百个，场景覆盖政务、金融、公益、�
 **FISCO BCOS开源社区**是国内活跃的开源社区，社区长期为机构和个人开发者提供各类支持与帮助。已有来自各行业的数千名技术爱好者在研究和使用FISCO BCOS。如您对FISCO BCOS开源技术及应用感兴趣，欢迎加入社区获得更多支持与帮助。
 
 ![](https://raw.githubusercontent.com/FISCO-BCOS/LargeFiles/master/images/QR_image.png)
+
+{<img src="https://app.travis-ci.com/InnochainTech/FISCO-BCOS-DOC.svg?branch=inno-dev" alt="Build Status" />}[https://app.travis-ci.com/InnochainTech/FISCO-BCOS-DOC]
